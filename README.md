@@ -11,6 +11,9 @@ Research and implement CRDTs on top of IPFS, creating building blocks that can b
 Research Cryptographic ACLs (Capabilities Systems) and create building blocks that implement.
 Apply this research and implementation to products like PeerPad, validating the solutions and defining new problems to be solved.
 
+## Goals
+
+- [ ] [2018Q1](https://github.com/ipfs/dynamic-data-and-capabilities/milestone/1)
 
 ## Current Status
 
