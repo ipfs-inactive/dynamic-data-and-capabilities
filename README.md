@@ -20,7 +20,4 @@ Apply this research and implementation to products like PeerPad, validating the 
 
 - [Peer-Star](https://github.com/ipfs-shipyard/peer-star-app) - support for building DApps on top of IPFS.
 - [Peer-Pad](https://peerpad.net) - a decentralized editor that allows concurrent writing of text. Besides making live changes to a given document, it allows read-only nodes to follow the changes in real-time. It also allows you to publish a self-contained snapshot of the document to IPFS.
-- [y-ipfs-connector](https://github.com/ipfs-shipyard/y-ipfs-connector#readme) - IPFS connector for [Y.js](http://y-js.org).
-- [peer-crdt](https://github.com/ipfs-shipyard/peer-crdt) - An extensible collection of operation-based CRDTs that are meant to work over a p2p network.
-- [peer-crdt-ipfs](https://github.com/ipfs-shipyard/peer-crdt-ipfs) - IPFS network and storage adapter for peer-crdt.
-- [Tevere](https://github.com/ipfs-shipyard/tevere#readme) - Decentralized eventually-consistent key-value store over IPFS for the browser.
+- [delta-crdts](https://github.com/ipfs-shipyard/js-delta-crdts#delta-crdts) - Delta-state-based CRDTs in JavaScript.
