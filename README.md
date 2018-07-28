@@ -56,3 +56,11 @@ Apply this research and implementation to products like PeerPad, validating the 
   - A connector that allows Y.js, the CRDT library, to use the IPFS network.
 - **Mar 2017:** created [Research CRDT](https://github.com/ipfs/research-CRDT).
   - Gathering research papers and discussions.
+
+## Contributing
+
+There are several ways you can get involved:
+
+* Join our [#ipfs-dynamic-data IRC Channel](https://webchat.freenode.net/?channels=ipfs-dynamic-data)
+* Join us on our bi-weekly calls. For that, check out [the global IPFS community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC). [Issue describing next meeting](https://github.com/ipfs/dynamic-data-and-capabilities/issues/36).
+* Check out [the working group challenges](https://github.com/ipfs/dynamic-data-and-capabilities/issues) and see how you can help contribute.
