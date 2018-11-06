@@ -6,15 +6,17 @@
 
 ## Responsibilities include
 
-Research and implement CRDTs on top of IPFS, creating building blocks that can be used by other applications.
+- Research and implement CRDTs on top of IPFS, creating building blocks that can be used by other applications.
+- Research Cryptographic ACLs (Capabilities Systems) and create building blocks that implement.
+- Apply this research and implementation to products like PeerPad, validating the solutions and defining new problems to be solved.
 
-Research Cryptographic ACLs (Capabilities Systems) and create building blocks that implement.
-Apply this research and implementation to products like PeerPad, validating the solutions and defining new problems to be solved.
+## Bi-Weekly Sync
+
+Join us on our bi-weekly calls. For that, check out [the global IPFS community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC). [Issue describing next meeting](https://github.com/ipfs/dynamic-data-and-capabilities/issues/36).
 
 ## Current Status
 
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/ipfs/dynamic-data-and-capabilities.svg?columns=all)](https://waffle.io/ipfs/dynamic-data-and-capabilities)
-
 
 ## Accomplishments and current endeavours
 
@@ -26,7 +28,6 @@ Apply this research and implementation to products like PeerPad, validating the 
   - [Decentralised Access Control in CRDTs](https://github.com/protocol/research/issues/8)
 - [Identity RFC](https://github.com/ipfs-shipyard/peer-star/blob/c249510b4873a9a4b58b245bf97dbe48513a2689/docs/rfc-identity.md): an identity management system for DApps.
 - [Discussify](https://github.com/ipfs-shipyard/discussify/): Fully decentralized platform for discussing anything on the web.
-
 
 ## Chronology
 
