@@ -10,9 +10,9 @@
 - Research Cryptographic ACLs (Capabilities Systems) and create building blocks that implement.
 - Apply this research and implementation to products like PeerPad, validating the solutions and defining new problems to be solved.
 
-## Bi-Weekly Sync
+## Weekly Sync
 
-Join us on our bi-weekly calls. For that, check out [the global IPFS community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC). [Issue describing next meeting](https://github.com/ipfs/dynamic-data-and-capabilities/issues/36).
+Join us on our weekly calls. For that, check out [the global IPFS community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC). [Issue describing next meeting](https://github.com/ipfs/dynamic-data-and-capabilities/issues/36).
 
 ## Current Status
 
@@ -20,13 +20,14 @@ Join us on our bi-weekly calls. For that, check out [the global IPFS community c
 
 ## Accomplishments and current endeavours
 
-- [Peer-Star](https://github.com/ipfs-shipyard/peer-star-app): a library to help create DApps on top of IPFS.
+- [Peer-Base](https://github.com/peer-base/peer-base): a library to help create DApps on top of IPFS.
 - [Peer-Pad](https://peerpad.net): a decentralized editor that allows concurrent writing of text. Besides making live changes to a given document, it allows read-only nodes to follow the changes in real-time. It also allows you to publish a self-contained snapshot of the document to IPFS.
 - [delta-crdts](https://github.com/ipfs-shipyard/js-delta-crdts#delta-crdts): delta-state-based CRDTs in JavaScript.
 - 2 research RFPs:
   - [Optimize storage and convergence time in causal CmRDTs](https://github.com/protocol/research/issues/9)
   - [Decentralised Access Control in CRDTs](https://github.com/protocol/research/issues/8)
-- [Identity RFC](https://github.com/ipfs-shipyard/peer-star/blob/c249510b4873a9a4b58b245bf97dbe48513a2689/docs/rfc-identity.md): an identity management system for DApps.
+- [Identity RFC](https://github.com/ipfs-shipyard/peer-star/blob/c249510b4873a9a4b58b245bf97dbe48513a2689/docs/rfc-identity.md): an identity
+- [Identity Manager](https://github.com/ipfs-shipyard/pm-idm): Identity Manager reference implementation
 - [Discussify](https://github.com/ipfs-shipyard/discussify/): Fully decentralized platform for discussing anything on the web.
 
 ## Chronology
