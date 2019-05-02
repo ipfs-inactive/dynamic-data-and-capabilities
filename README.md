@@ -1,4 +1,4 @@
-# Dynamic Data and Capabilities in IPFS Working Group
+# Dynamic Data and Capabilities in IPFS Special Interest Group
 
 [![#ipfs-dynamic-data](https://img.shields.io/badge/irc-%23ipfs--dynamic--data-brightgreen.svg)](https://webchat.freenode.net/?channels=ipfs-dynamic-data)
 
@@ -12,7 +12,7 @@
 
 ## Weekly Sync
 
-Join us on our weekly calls. For that, check out [the global IPFS community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC). [Issue describing next meeting](https://github.com/ipfs/dynamic-data-and-capabilities/issues/36).
+Join us on our calls. For that, check out [the global IPFS community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC). [Issue describing next meeting](https://github.com/ipfs/dynamic-data-and-capabilities/issues/36).
 
 ## Current Status
 
@@ -32,6 +32,7 @@ Join us on our weekly calls. For that, check out [the global IPFS community cale
 
 ## Chronology
 
+- **Apr 2019:** DDC became a [Special Interest Group](https://github.com/ipfs/team-mgmt/blob/master/TEAMS_ROLES_STRUCTURES.md#team-structures)
 - **Jul 2018:** [PeerPad](https://peerpad.net/) now uses [peer-star-app](https://github.com/ipfs-shipyard/peer-star-app).
 - **Jun 2018:** created [peer-star-app](https://github.com/ipfs-shipyard/peer-star-app).
   - Peer-Star App support for real-time collaborative DApps built on top of IPFS.
@@ -64,5 +65,5 @@ Join us on our weekly calls. For that, check out [the global IPFS community cale
 There are several ways you can get involved:
 
 * Join our [#ipfs-dynamic-data IRC Channel](https://webchat.freenode.net/?channels=ipfs-dynamic-data)
-* Join us on our bi-weekly calls. For that, check out [the global IPFS community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC). [Issue describing next meeting](https://github.com/ipfs/dynamic-data-and-capabilities/issues/36).
-* Check out [the working group challenges](https://github.com/ipfs/dynamic-data-and-capabilities/issues) and see how you can help contribute.
+* Join us on our regular calls. For that, check out [the global IPFS community calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC). [Issue describing next meeting](https://github.com/ipfs/dynamic-data-and-capabilities/issues/36).
+* Check out [the Special Interest Group challenges](https://github.com/ipfs/dynamic-data-and-capabilities/issues) and see how you can help contribute.
